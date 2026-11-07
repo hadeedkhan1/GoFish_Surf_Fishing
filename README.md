@@ -1,4 +1,4 @@
-# Go Fish 🎣
+# GoFish 
 
 Beginner-friendly Galveston fishing trip planner. Howdy Hack 2026.
 
