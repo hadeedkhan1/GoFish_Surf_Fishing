@@ -1,4 +1,4 @@
-# Figma AI prompt (paste everything below the line)
+# Figma AI prompt for UX design
 
 ---
 
